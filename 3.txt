@@ -2201,12 +2201,20 @@
   ],
 "lives":[
    {
-      "name": 1,
-      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
+      "name": Adult,
+      "url": "https://gh-proxy.com/https://github.com/atsushi444/iptv/blob/main/adult.m3u"
     },
    {
-      "name": 2,
-      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
+      "name": Adult2,
+      "url": "https://gh-proxy.com/https://github.com/atsushi444/iptv/blob/main/adult2.m3u"
+    },
+   {
+      "name": list4,
+      "url": "https://gh-proxy.com/https://github.com/atsushi444/iptv/blob/main/vod/list4.m3u"
+    },
+   {
+      "name": 1,
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
     }
   ]
 }
